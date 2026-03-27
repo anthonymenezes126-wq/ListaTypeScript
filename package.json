@@ -1,0 +1,23 @@
+{
+  "name": "listatypescript",
+  "version": "1.0.0",
+  "description": "Repositório para lista de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusdjg/ListaTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateusdjg/ListaTypeScript/issues"
+  },
+  "homepage": "https://github.com/Mateusdjg/ListaTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
